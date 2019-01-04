@@ -47,7 +47,7 @@ eventbrite:    54406082056       # optional: alphanumeric key for Eventbrite reg
 </iframe>
 {% endif %}
 
-<h4>To complete the registration fill also this [form](https://docs.google.com/forms/d/1oq3YFzIAsnmrfHuGfLtzxQ-KsgNCSkZgv9CBGcfx8qE/edit?usp=sharing)</h4>
+<h4>To complete the registration fill also this form: https://docs.google.com/forms/d/1oq3YFzIAsnmrfHuGfLtzxQ-KsgNCSkZgv9CBGcfx8qE/edit?usp=sharing </h4>
 
 <h2 id="general">General Information</h2>
 
