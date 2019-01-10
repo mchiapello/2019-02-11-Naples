@@ -47,7 +47,7 @@ eventbrite:        # optional: alphanumeric key for Eventbrite registration, e.g
 </iframe>
 {% endif %}
 
-<h4>To enroll fill this form: <a href="https://docs.google.com/forms/d/1oq3YFzIAsnmrfHuGfLtzxQ-KsgNCSkZgv9CBGcfx8qE/edit?usp=sharing">link</a> </h4>
+<h2>To enroll fill this form: <a href="https://docs.google.com/forms/d/1oq3YFzIAsnmrfHuGfLtzxQ-KsgNCSkZgv9CBGcfx8qE/edit?usp=sharing">link</a> </h2>
 
 <h2 id="general">General Information</h2>
 
