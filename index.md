@@ -47,7 +47,13 @@ eventbrite:        # optional: alphanumeric key for Eventbrite registration, e.g
 </iframe>
 {% endif %}
 
-<h2>To enroll fill this form: <a href="https://docs.google.com/forms/d/1oq3YFzIAsnmrfHuGfLtzxQ-KsgNCSkZgv9CBGcfx8qE/edit?usp=sharing">link</a> </h2>
+<h2>Registration:</h2>
+
+<p>There are <strong>25 seats</strong>. Partecipants will be selected on <strong>Motivation letter</strong>. You can fill the motivation letter in the form below.</p>
+
+<h4>To enroll fill this form: <a href="https://docs.google.com/forms/d/1oq3YFzIAsnmrfHuGfLtzxQ-KsgNCSkZgv9CBGcfx8qE/edit?usp=sharing">link</a> </h4>
+
+<p><strong>Space is limited</strong> and it will likely fill quickly. <strong>The course is free but a no-show-up fee will be charged</strong> to your institution if you do not show-up.</p>
 
 <h2 id="general">General Information</h2>
 
