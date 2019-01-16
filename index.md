@@ -49,6 +49,9 @@ eventbrite:        # optional: alphanumeric key for Eventbrite registration, e.g
 
 <h2>Registration:</h2>
 
+
+<p> Deadline for application is <strong>January 27, 2019</strong>. Chosen participants will be notified by <strong>January 30, 2019</strong> </p> 
+
 <p>There are <strong>25 seats</strong> available. Partecipants will be selected on <strong>Motivation letter</strong>. You can fill the motivation letter in the form below.</p>
 
 <h4>To enroll fill this form: <a href="https://docs.google.com/forms/d/1oq3YFzIAsnmrfHuGfLtzxQ-KsgNCSkZgv9CBGcfx8qE/edit?usp=sharing">link</a> </h4>
